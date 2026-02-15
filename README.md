@@ -55,8 +55,8 @@ NDA: 293 seats (53.96%) **┃**   I.N.D.I.A: 234 seats (43.09%) **┃** Others/I
 ⚠ Regional vote split indirectly benefited NDA in ~20 constituencies.
 
 ### 🚀 Outcomes & Achievements
-✓  Successfully converted multi-table election data into structured coalition intelligence using advanced SQL logic.   
-✓  Identified highest vote-getting candidates and strongest regions, highlighting BJP’s nationwide dominance and opposition’s regional strength gaps.   
-✓  Delivered a complete election prediction and alliance comparison model purely using SQL without external tools.    
-✓  I.N.D.I.A alliance strong but lacked nationwide consolidation.   
-✓  Election outcome driven primarily by EVM dominance and alliance arithmetic.
+✔   Successfully converted multi-table election data into structured coalition intelligence using advanced SQL logic.   
+✔   Identified highest vote-getting candidates and strongest regions, highlighting BJP’s nationwide dominance and opposition’s regional strength gaps.   
+✔   Delivered a complete election prediction and alliance comparison model purely using SQL without external tools.    
+✔   I.N.D.I.A alliance strong but lacked nationwide consolidation.   
+✔   Election outcome driven primarily by EVM dominance and alliance arithmetic.
